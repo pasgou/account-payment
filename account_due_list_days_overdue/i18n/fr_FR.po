@@ -82,19 +82,19 @@ msgstr "Nom"
 #: model_terms:ir.ui.view,arch_db:account_due_list_days_overdue.view_account_overdue_term_search
 #: model_terms:ir.ui.view,arch_db:account_due_list_days_overdue.view_account_overdue_term_tree
 msgid "Overdue Term"
-msgstr "Échéance en retard"
+msgstr "Délai de retard d'échéance"
 
 #. module: account_due_list_days_overdue
 #: code:addons/account_due_list_days_overdue/models/account_overdue_term.py:55
 #, python-format
 msgid "Overdue Term %s overlaps with %s"
-msgstr "L’échéance en retard %s chevauche %s"
+msgstr "Le délai %s chevauche %s"
 
 #. module: account_due_list_days_overdue
 #: model:ir.actions.act_window,name:account_due_list_days_overdue.action_account_overdue_term_form
 #: model:ir.ui.menu,name:account_due_list_days_overdue.menu_action_account_overdue_term_form
 msgid "Overdue Terms"
-msgstr "Échéances en retard"
+msgstr "Délais des retard d'échéance"
 
 #. module: account_due_list_days_overdue
 #: model:ir.model.fields,field_description:account_due_list_days_overdue.field_account_overdue_term__tech_name

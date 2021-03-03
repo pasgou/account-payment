@@ -114,7 +114,7 @@ msgstr "Paiements"
 #: model_terms:ir.ui.view,arch_db:account_due_list.view_payments_graph
 #: model_terms:ir.ui.view,arch_db:account_due_list.view_payments_pivot
 msgid "Payments and due list"
-msgstr "Liste des dûs et des paiements"
+msgstr "Échéances et paiements"
 
 #. module: account_due_list
 #: model_terms:ir.ui.view,arch_db:account_due_list.view_payments_filter
